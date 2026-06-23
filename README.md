@@ -6,6 +6,7 @@ This repository contains two Google Colab notebooks designed for geospatial data
 
 - **Topographic Variables**: Elevation, slope, aspect, landforms, and TP.
 - **Climatic Variables**: Total precipitation and average temperature over defined periods.
+* **Structural Variables**: Vegetation Height (Canopy).
 - **Spectral Indices**: NDVI, NDBI, NDWI, EVI from Sentinel-2 imagery.
 - **Sentinel-2 Variables**: Includes Red, Green, Blue, and additional spectral bands.
 - **Radar Data**: Sentinel-1 VV and VH polarizations with slope correction.
